@@ -2,8 +2,10 @@
 
 
 #### Perl Program – automation.pl
-#### Input – download.txt  
-  
+
+#### Input  
+Download the names of all the input *.tar.gz files from the link provided https://www.ncbi.nlm.nih.gov/pmc/tools/ftp/ . Use 'wget' function to download all the input files from the link present in the above file. 
+
 If you want to change the input file, just change the $filename variable in automation.pl program.   
 
 Output text files contains affiliation and publication date along with all the locations.  
